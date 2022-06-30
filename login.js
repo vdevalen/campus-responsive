@@ -1,4 +1,4 @@
-const container = document.querySelector(".container"),
+    const container = document.querySelector(".container"),
     pwShowHide = document.querySelectorAll(".showHidePw"),
     pwFields = document.querySelectorAll(".password"),
     signUp = document.querySelector(".signup-link"),
